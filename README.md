@@ -1,10 +1,10 @@
-# ChatGPTUI
+<a href="#"><img src="https://user-images.githubusercontent.com/25837540/229469147-781d4141-7f35-4957-ad76-d483bb699b16.png" src="ChatGPTUI" width="300px"></a>
 
 ChatGPT 🤖 with Textual User Interface (TUI) mode written in Go.
 
 ChatGPTUI is an interactive tool that allows users to interact with OpenAI's GPT (Generative Pre-trained Transformer) language model in real-time, using a text-based user interface (TUI). This tool provides a convenient and intuitive way to communicate with the language model and generate human-like text responses, making it an ideal tool for anyone looking to explore the capabilities of language models or create conversational applications.
 
-<img src="https://user-images.githubusercontent.com/25837540/229366591-b8185557-1e57-48d9-a265-9034d0ba92ac.gif" align="right" width="400px"/>
+<a href="#"><img src="https://user-images.githubusercontent.com/25837540/229366591-b8185557-1e57-48d9-a265-9034d0ba92ac.gif" align="right" width="400px"/></a>
 
 ChatGPTUI is designed to be easy to use and highly customizable. The tool supports a range of configuration options, allowing users to select the language model they want to use, set the length of generated responses, and more. Additionally, ChatGPTUI provides a range of keyboard shortcuts for quick and easy navigation through the available options, making the tool more user-friendly and efficient.
 
